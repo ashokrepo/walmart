@@ -13,7 +13,7 @@ public class DemoApplication {
 	
 	@GetMapping("msg")
 	public String cratemsg() {
-		return "hi hello Namskar";
+		return "hi hello Namskar j";
 	}
 
 }
